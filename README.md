@@ -199,4 +199,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 My Name - Vislavath Pavani
 
-Project Link: https://github.com/yourusername/heart-disease-prediction
+Project Link: [https://github.com/yourusername/heart-disease-prediction](https://mybinder.org/v2/gh/12pavani/Heart-Disease-Prediction-Model.git/main)
