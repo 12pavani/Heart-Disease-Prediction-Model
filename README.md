@@ -1,5 +1,3 @@
-Heart Disease Prediction Project Documentation
-
 # ❤️ Heart Disease Prediction Using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
